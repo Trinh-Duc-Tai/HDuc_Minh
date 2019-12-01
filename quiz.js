@@ -150,6 +150,8 @@ function scoreRender(){
     
     scoreDiv.innerHTML = "<img src="+ img +">";
     scoreDiv.innerHTML += "<p>"+ scorePerCent +"%</p>";
+    scoreDiv.innerHTML += `<a href="index.html"class="btn_hov choilai">Chơi lại :"> </a>`
+
 }
 
 

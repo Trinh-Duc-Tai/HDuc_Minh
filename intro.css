@@ -146,3 +146,7 @@ a.btn_hov:hover:after{
     font-size: 50px;
     font-family: 'Pangolin', cursive;
 }
+
+.choilai{
+    bottom:-66%!important;
+}
