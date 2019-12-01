@@ -77,7 +77,7 @@ body{
     border-radius: 5px;
     cursor: pointer;
     padding : 5px;
-    
+    user-select: none;
 }
 .choice:hover{
     border : 2px solid grey;
